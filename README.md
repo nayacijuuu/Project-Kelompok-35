@@ -1,4 +1,4 @@
-# JUDUL PROJECT PCD
+# Klasifikasi Varietas Beras Berdasarkan Fitur Tekstur GLCM Menggunakan Metode KNN/SVM/Random Forest
 ## Nama Anggota
 ###  Naylarifa Maulida Asri : F1D02410019
 ###  MELANI PUTRI ZAHARI  : F1D02410073
